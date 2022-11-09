@@ -3,7 +3,7 @@
     - 첫번째 샘플
 
 
-```{mermaid}
+```mermaid
 classDiagram
 direction BT %% TB, BT, RL, LR 모두 가능
 
